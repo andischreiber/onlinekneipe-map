@@ -271,7 +271,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/s5-webradio.rockantenne.de\/rockantenne\/stream\/mp3"
+                 "value":"https:\/\/stream.laut.fm\/macslons-irish-pub-radio"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -307,7 +307,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/stream.laut.fm\/macslons-irish-pub-radio"
+                 "value":"https:\/\/s5-webradio.rockantenne.de\/rockantenne\/stream\/mp3\n"
                 }],
          "type":"tilelayer",
          "visible":true,
