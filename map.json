@@ -79,7 +79,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=NEqniZcaU6Y"
+                 "value":"http:\/\/www.asciimation.co.nz\/"
                 }],
          "type":"tilelayer",
          "visible":true,
