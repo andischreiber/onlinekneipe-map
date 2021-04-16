@@ -85,7 +85,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/map.json"
+                 "value":"..\/map.json#down-the-stairs"
                 }],
          "type":"tilelayer",
          "visible":true,
