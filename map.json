@@ -289,7 +289,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/streamer.psyradio.org:8010\/progressive\/;?type=http&nocache=648546"
+                 "value":"http:\/\/www.internetradio-horen.de\/hirschmilch-prog-house"
                 }],
          "type":"tilelayer",
          "visible":true,
