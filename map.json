@@ -289,7 +289,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/www.radio.de\/s\/uzictechno"
+                 "value":"https:\/\/www.rm.fm\/techhouse"
                 }],
          "type":"tilelayer",
          "visible":true,
