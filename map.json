@@ -343,7 +343,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/onlinekneipe-map\/world-lounge\/main.json"
+                 "value":"..\/onlinekneipe-map\/world-lounge\/main.json#exitOnlineKneipe"
                 }],
          "type":"tilelayer",
          "visible":true,
