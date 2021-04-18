@@ -3510,10 +3510,6 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
-        }, 
-        {
-         "firstgid":2272,
-         "source":"chaos_zone_shared.tsx"
         }],
  "tilewidth":32,
  "type":"map",
