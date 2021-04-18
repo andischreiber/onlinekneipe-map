@@ -97,7 +97,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/cdn.pixabay.com\/photo\/2013\/07\/12\/17\/47\/test-pattern-152459_960_720.png"
+                 "value":"http:\/\/datenklo.schre1ber.de\/s\/NSo9FogEs6bTrRg\/download\/hackers.mp4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -289,7 +289,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/stream.laut.fm\/macslons-irish-pub-radio"
+                 "value":"http:\/\/datenklo.schre1ber.de\/s\/NFdeETQzXWKgWjt\/download\/Bj%C3%B6rn%20Peng%20feat.%20Infant%20Sanchos%20-%20Volk%20Off.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
