@@ -32,7 +32,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"shared clubhausdraussen"
+                 "value":"shredclubhausdraussen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -50,7 +50,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"shared clubhausdrinnen"
+                 "value":"shredclubhausdrinnen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -194,7 +194,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/stream.studio-link.de\/norave"
+                 "value":"https:\/\/soundcloud.com\/user-757957079\/wackeltschudding-1"
                 }],
          "type":"tilelayer",
          "visible":true,
