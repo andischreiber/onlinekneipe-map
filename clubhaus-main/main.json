@@ -32,7 +32,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"shredclubhausdraussen"
+                 "value":"shrdclbhausdraussen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -50,7 +50,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"shredclubhausdrinnen"
+                 "value":"shrdclbhausdrinnen"
                 }],
          "type":"tilelayer",
          "visible":true,
