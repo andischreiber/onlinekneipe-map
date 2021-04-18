@@ -324,7 +324,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/raw.githubusercontent.com\/die3ungleichen\/2D-Welt-thueringen\/main\/main.json"
+                 "value":" ..\/clubhaus-main\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
