@@ -25,7 +25,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/onlinekneipe-map\/world-lounge\/main.json#exitJuze"
+                 "value":"..\/world-lounge\/main.json#exitJuze"
                 }],
          "type":"tilelayer",
          "visible":true,
