@@ -289,7 +289,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/datenklo.schre1ber.de\/s\/fDFC6FfZo27Di76"
+                 "value":"http:\/\/datenklo.schre1ber.de\/s\/fDFC6FfZo27Di76\/download\/welliwell.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
