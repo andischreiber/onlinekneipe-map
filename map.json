@@ -97,7 +97,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/skribbl.io\/"
+                 "value":"https:\/\/media.ccc.de\/"
                 }],
          "type":"tilelayer",
          "visible":true,
