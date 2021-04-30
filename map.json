@@ -97,7 +97,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/media.ccc.de\/"
+                 "value":"https:\/\/chaosradio.de\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -289,7 +289,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/datenklo.schre1ber.de\/s\/NFdeETQzXWKgWjt\/download\/Bj%C3%B6rn%20Peng%20feat.%20Infant%20Sanchos%20-%20Volk%20Off.mp3"
+                 "value":"https:\/\/datenklo.schre1ber.de\/s\/fDFC6FfZo27Di76"
                 }],
          "type":"tilelayer",
          "visible":true,
